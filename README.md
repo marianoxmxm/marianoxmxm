@@ -1,34 +1,3 @@
-<!-- HERO BANNER 
-<a href="https://github.com/marianoxmxm">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0f6feb&height=240&section=header&text=Mariano%20Medici&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=🚀%20Technology%20%26%20Cybersecurity%20Transformation%20Leader%20%C2%B7%20Pentester%20%C2%B7%20IT%20Governance&descAlignY=60&descSize=15&descColor=c9d1d9&animation=fadeIn" alt="hero banner">
-</a> -->
-
-<!-- AUTO-UPDATED-SNAKE START -->
-<!-- AUTO-UPDATED-SNAKE START -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marianoxmxm/marianoxmxm/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marianoxmxm/marianoxmxm/output/github-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/marianoxmxm/marianoxmxm/output/github-snake.svg" width="100%">
-  </picture>
-</div>
-<!-- AUTO-UPDATED-SNAKE END -->
-<!-- AUTO-UPDATED-SNAKE END -->
-
-<!-- STATUS BAR -->
-<p align="center">
-  <img src="https://img.shields.io/badge/ROLE-Transformation%20%26%20Security%20Leader-0f6feb?style=flat-square&labelColor=161b22">
-  <img src="https://img.shields.io/badge/FOCUS-Governance%20%C2%B7%20IAM%20%C2%B7%20Pentesting-a371f7?style=flat-square&labelColor=161b22">
-  <img src="https://img.shields.io/badge/LOCATION-Buenos%20Aires%20%C2%B7%20Argentina-36d1dc?style=flat-square&labelColor=161b22">
-</p>
-
-<!-- AT A GLANCE METRICS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-22%2B%20years-ff8c42?style=flat-square&labelColor=161b22">
-  <img src="https://img.shields.io/badge/Core%20Cert-ISC2%20CC%20%C2%B7%20ISO%2027001-3fb950?style=flat-square&labelColor=161b22">
-  <img src="https://img.shields.io/badge/Infrastructure%20Scale-Critical%20%26%20Enterprise-f85149?style=flat-square&labelColor=161b22">
-  <img src="https://img.shields.io/badge/Frameworks-NIST%20%C2%B7%20MITRE%20ATT%26CK-36d1dc?style=flat-square&labelColor=161b22">
-</p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -48,6 +17,23 @@
 Líder estratégico con **más de 22 años de trayectoria** dirigiendo la evolución tecnológica, la transformación digital y la gobernanza en infraestructuras críticas. Mi enfoque se centra en transformar la complejidad operativa en ecosistemas digitales altamente seguros y escalables, tendiendo puentes sólidos entre los objetivos de negocio, la ciberseguridad avanzada y el factor humano.
 
 Combino mi experiencia corporativa gestionando programas masivos de vanguardia con la investigación constante en seguridad ofensiva, auditorías de accesos (**IAM**), resiliencia digital y mitigación de riesgos bajo estándares internacionales (**ISC2 CC**, **ISO 27001**, **NIST**).
+
+
+<!-- STATUS BAR -->
+<p>
+  <img src="https://img.shields.io/badge/ROLE-Transformation%20%26%20Security%20Leader-0f6feb?style=flat-square&labelColor=161b22">
+  <img src="https://img.shields.io/badge/FOCUS-Governance%20%C2%B7%20IAM%20%C2%B7%20Pentesting-a371f7?style=flat-square&labelColor=161b22">
+  <img src="https://img.shields.io/badge/LOCATION-Buenos%20Aires%20%C2%B7%20Argentina-36d1dc?style=flat-square&labelColor=161b22">
+</p>
+
+<!-- AT A GLANCE METRICS -->
+<p>
+  <img src="https://img.shields.io/badge/Experience-22%2B%20years-ff8c42?style=flat-square&labelColor=161b22">
+  <img src="https://img.shields.io/badge/Core%20Cert-ISC2%20CC%20%C2%B7%20ISO%2027001-3fb950?style=flat-square&labelColor=161b22">
+  <img src="https://img.shields.io/badge/Infrastructure%20Scale-Critical%20%26%20Enterprise-f85149?style=flat-square&labelColor=161b22">
+  <img src="https://img.shields.io/badge/Frameworks-NIST%20%C2%B7%20MITRE%20ATT%26CK-36d1dc?style=flat-square&labelColor=161b22">
+</p>
+
 
 ---
 
@@ -83,6 +69,9 @@ Combino mi experiencia corporativa gestionando programas masivos de vanguardia c
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white&labelColor=161b22">
 </p>
 
+
+
+
 **Gobernanza, Procesos & Ecosistemas Enterprise**
 <p align="left">
   <img src="https://img.shields.io/badge/Atlassian%20Suite-0052CC?style=flat-square&logo=atlassian&logoColor=white&labelColor=161b22">
@@ -102,6 +91,26 @@ Combino mi experiencia corporativa gestionando programas masivos de vanguardia c
 </p>
 
 ---
+
+<!-- HERO BANNER 
+<a href="https://github.com/marianoxmxm">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0f6feb&height=240&section=header&text=Mariano%20Medici&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=🚀%20Technology%20%26%20Cybersecurity%20Transformation%20Leader%20%C2%B7%20Pentester%20%C2%B7%20IT%20Governance&descAlignY=60&descSize=15&descColor=c9d1d9&animation=fadeIn" alt="hero banner">
+</a> -->
+
+<!-- AUTO-UPDATED-SNAKE START -->
+<!-- AUTO-UPDATED-SNAKE START -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marianoxmxm/marianoxmxm/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marianoxmxm/marianoxmxm/output/github-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/marianoxmxm/marianoxmxm/output/github-snake.svg" width="100%">
+  </picture>
+</div>
+<!-- AUTO-UPDATED-SNAKE END -->
+<!-- AUTO-UPDATED-SNAKE END -->
+
+
+
 
 ## 📊 Estadísticas de GitHub
 
