@@ -1,7 +1,7 @@
-<!-- HERO BANNER -->
+<!-- HERO BANNER 
 <a href="https://github.com/marianoxmxm">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0f6feb&height=240&section=header&text=Mariano%20Medici&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=🚀%20Technology%20%26%20Cybersecurity%20Transformation%20Leader%20%C2%B7%20Pentester%20%C2%B7%20IT%20Governance&descAlignY=60&descSize=15&descColor=c9d1d9&animation=fadeIn" alt="hero banner">
-</a>
+</a> -->
 
 <!-- AUTO-UPDATED-SNAKE START -->
 <div align="center">
