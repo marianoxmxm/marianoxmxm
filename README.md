@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-<sub><b>👋 ¡Hola! Bienvenid@ a mi espacio de ingeniería</b> &nbsp;·&nbsp; <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fmarianoxmxm&label=Visitas&countColor=%2336d1dc&labelColor=%23161b22&style=flat-square" alt="Visitors"></sub>
-</p>
-
 ---
 
 ## 🛡️ Acerca de mí
