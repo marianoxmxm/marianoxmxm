@@ -4,6 +4,7 @@
 </a> -->
 
 <!-- AUTO-UPDATED-SNAKE START -->
+<!-- AUTO-UPDATED-SNAKE START -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marianoxmxm/marianoxmxm/output/github-snake-dark.svg">
@@ -11,6 +12,7 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/marianoxmxm/marianoxmxm/output/github-snake.svg" width="100%">
   </picture>
 </div>
+<!-- AUTO-UPDATED-SNAKE END -->
 <!-- AUTO-UPDATED-SNAKE END -->
 
 <!-- STATUS BAR -->
