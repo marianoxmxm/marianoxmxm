@@ -122,8 +122,8 @@ Combino mi experiencia corporativa gestionando programas masivos de vanguardia c
 ## 🌐 Conectemos
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tu-perfil-aquí"><img src="https://img.shields.io/badge/LinkedIn-Mariano%20Medici-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22"></a>
-  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-Contacto%20Directo-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22"></a>
+  <a href="https://www.linkedin.com/in/mariano-medici"><img src="https://img.shields.io/badge/LinkedIn-Mariano%20Medici-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22"></a>
+
 </p>
 
 ---
