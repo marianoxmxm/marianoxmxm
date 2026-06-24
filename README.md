@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/ROLE-Transformation%20%26%20Security%20Leader-0f6feb?style=flat-square&labelColor=161b22">
   <img src="https://img.shields.io/badge/FOCUS-Governance%20%C2%B7%20IAM%20%C2%B7%20Pentesting-a371f7?style=flat-square&labelColor=161b22">
   <img src="https://img.shields.io/badge/LOCATION-Buenos%20Aires%20%C2%B7%20Argentina-36d1dc?style=flat-square&labelColor=161b22">
-  <img src="https://img.shields.io/badge/ALUMNI-Universidad%20de%20Palermo-ffcf5a?style=flat-square&labelColor=161b22">
 </p>
 
 <!-- AT A GLANCE METRICS -->
